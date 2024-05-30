@@ -148,3 +148,9 @@ footer ul li a {
 @keyframes fade-in {
     100% {opacity: 1;}
 }
+
+.chat-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
